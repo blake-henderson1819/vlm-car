@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pt
+*.pth
+*.safetensors
+*.bin
+.DS_Store
+._*
+debug*.png
+debug*.jpg
+*_debug.*
+software/heading_trim.json

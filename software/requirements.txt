@@ -1,0 +1,9 @@
+faster-whisper==1.2.1
+numpy
+opencv-contrib-python
+pillow
+pyserial==3.5
+sounddevice
+torch
+torchvision
+transformers

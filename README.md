@@ -1,3 +1,5 @@
+My AI agent compiled all the materials and put this on Github:
+
 # VLM Car 
 
 A small Arduino robot car you drive by **talking to it**. A webcam mounted over my table watches the table, finds the car by an ArUco marker on its roof, finds objects by name with an open-vocabulary detector, and a Mac app turns commands like *"lighter, bulldoze"* or *"go home"* into motor commands over USB serial.
